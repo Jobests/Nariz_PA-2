@@ -24,3 +24,6 @@ print(X)
 print("Your normalized value: ")
 print(Z)
 ```
+# Output
+
+![image](https://github.com/user-attachments/assets/9fa8b795-a26e-4813-827e-457bf312070f)
